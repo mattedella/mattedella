@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ft_trascendence](https://github.com/ArtuCN/ft_trascendence)
 
-- 🌱 I’m currently learning **Python, JavaScript, and TypeScript**
+- 🌱 I’m currently learning **Next.js, React and TypeScript**
 
 - 📫 How to reach me: **matte.della.rosa@gmail.com**
 
