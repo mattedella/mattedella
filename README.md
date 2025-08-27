@@ -79,6 +79,4 @@ GITHUB STATS
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattedella&show_icons=true&theme=dark&locale=en" alt="mattedella" /></p>
-
 [![mdella-r's 42 stats](https://badge.mediaplus.ma/greenbinary/mdella-r?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
