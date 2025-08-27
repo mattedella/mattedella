@@ -78,6 +78,4 @@ GITHUB STATS
 </p>
 
 ---
-<div align="center">
 [![mdella-r's 42 stats](https://badge.mediaplus.ma/greenbinary/mdella-r?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</div>
