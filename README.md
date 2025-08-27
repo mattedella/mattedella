@@ -1,31 +1,14 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
 <h3 align="center">A passionate student of 42 Firenze</h3>
 
+- 🤖 I'm a Software Developer
+
 - 🔭 I’m currently working on [ft_trascendence](https://github.com/ArtuCN/ft_trascendence)
 
 - 🌱 I’m currently learning **Python, JavaScript, and TypeScript**
 
 - 📫 How to reach me: **matte.della.rosa@gmail.com**
 
-<h1 align="center">
- 👋 Hi, I’m @ArtuCN
-</h1>
-
-
-
-<h3 align="left">
-  About me:
-</h3>
-<h3 align="left">
-
- - 🤖 I'm a Software Developer
-
- - 🌱 I’m currently learning programmation in École 42 in Florence
-
- - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
-
- - 💬 This is my email -> arturo.conti.2004@gmail.com
- 
 </h3>
 
 <h1 align="center">
