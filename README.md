@@ -49,8 +49,8 @@ GITHUB STATS
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -78,5 +78,6 @@ GITHUB STATS
 </p>
 
 ---
-
+<div align="center">
 [![mdella-r's 42 stats](https://badge.mediaplus.ma/greenbinary/mdella-r?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
