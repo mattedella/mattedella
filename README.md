@@ -71,13 +71,5 @@ GITHUB STATS
   />
 </picture>
 
-<h1 align="center">
-  🚀 Tech Stack
-</h1>
-
-<p align="center">
-  These are the technologies and tools I use daily to develop projects and solve problems.
-</p>
-
 ---
 [![mdella-r's 42 stats](https://badge.mediaplus.ma/greenbinary/mdella-r?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
