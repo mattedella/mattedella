@@ -46,7 +46,7 @@ A web-based Pong project focused on multiplayer gameplay and the surrounding app
 ## 📫 Let's Connect
 
 - GitHub: [@mattedella](https://github.com/mattedella)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/matteo-della-rosa-42271a372/)
+- LinkedIn: [Matteo Della Rosa](https://www.linkedin.com/matteo-della-rosa-42271a372/)
 - Email: matte.della.rosa@gmail.com
 
 ---
