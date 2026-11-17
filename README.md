@@ -1,75 +1,54 @@
-<h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">A passionate student of 42 Firenze</h3>
+# Hi, I'm Matteo 👋
 
-- 🤖 I'm a Software Developer
+**Software Developer | Lifelong Learner**
 
-- 🔭 I’m currently working on [ft_trascendence](https://github.com/ArtuCN/ft_trascendence)
+I enjoy building software, exploring different technologies, and solving problems through code.
 
-- 🌱 I’m currently learning **Next.js, React and TypeScript**
+## 👨‍💻 About Me
 
-- 📫 How to reach me: **matte.della.rosa@gmail.com**
+- Software developer with a broad interest in software development and engineering.
+- Background in the project-based learning environment at **42 Firenze (2023–2026)**.
+- Interested in different areas of development, from low-level programming to web applications.
+- Always learning, experimenting, and building new projects.
 
-</h3>
+## 🛠️ Technologies & Tools
 
----
+**Strong experience**
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-</p>
+C · C++ · Docker · Git
 
----
+**Working knowledge**
 
-<h1 align="center">
-GITHUB STATS
-</h1>
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mattedella&show_icons=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mattedella&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mattedella&show_icons=true" />
-  
-</picture>
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mattedella&theme=midnight-purple"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattedella" 
-    alt="Top languages"
-    style="display: block; max-width: 100%; height: auto;"
-  />
-</picture>
+Next.js · React · JavaScript · TypeScript · SQL
+
+**Currently exploring / familiar with**
+
+C# · .NET · Python · Django · Angular · MongoDB · Fastify
+
+## 🚀 Featured Projects
+
+### PizzDesk
+A desktop application for pizzerias, designed to manage orders, customize pizzas, maintain the menu and ingredients, and generate receipts and daily reports.
+
+**Tech:** C# · .NET · Windows Forms · SQLite
+
+### ft_transcendence
+A web-based Pong project focused on multiplayer gameplay and the surrounding application experience. Development includes authentication, matchmaking, tournaments, and real-time communication.
+
+**Tech:** Next.js · React · TypeScript · SQLite · Socket.IO
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattedella&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattedella&layout=compact&langs_count=8)
+
+## 📫 Let's Connect
+
+- GitHub: [@mattedella](https://github.com/mattedella)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/matteo-della-rosa-42271a372/)
+- Email: matte.della.rosa@gmail.com
 
 ---
-[![mdella-r's 42 stats](https://badge.mediaplus.ma/greenbinary/mdella-r?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+*Thanks for stopping by! Feel free to explore my repositories.*
